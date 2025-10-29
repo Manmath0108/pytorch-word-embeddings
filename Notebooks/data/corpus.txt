@@ -1,0 +1,20 @@
+the cat sat on the mat
+the dog chased the cat
+the cat climbed the tree
+the dog barked loudly
+the man loves his dog
+the woman loves her cat
+the king rules the kingdom
+the queen rules the castle
+the prince is the son of the king
+the princess is the daughter of the queen
+the boy plays football
+the girl plays chess
+the teacher teaches students
+the student studies hard
+artificial intelligence is the future
+machine learning enables smart systems
+deep learning powers modern nlp
+nlp stands for natural language processing
+word embeddings capture meaning
+similar words have similar vectors
