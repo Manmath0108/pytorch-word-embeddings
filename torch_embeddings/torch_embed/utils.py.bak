@@ -1,0 +1,8 @@
+import torch
+
+def save_embeddings(model, id_to_word, path="models/embeddings.txt"):
+    embeds = model.center.weight.detach().cpu().numpy()
+    with open(path, "w") as f:
+        for idx, word in id_to_word.items():
+            vec = " ".join(map(str, embeds[idx]))
+            f.write(f"{word} {vec}\n")
